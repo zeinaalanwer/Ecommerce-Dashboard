@@ -56,11 +56,7 @@ The dashboard enables data-driven decision-making by transforming raw ecommerce 
 
 ## 📷 Dashboard Preview
 
-<p align="center">
-  <img src="HH.png" width="1000"/>
-</p>
-
----
+![Dashboard](Ecommerce power bi.png)
 
 ## 👩‍💻 Author
 
